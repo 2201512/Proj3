@@ -1,0 +1,75 @@
+[0.370s] Invoking command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake /home/ye24/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ye24/turtlebot3_ws/install/turtlebot3_fake_node
+[0.410s] -- The C compiler identification is GNU 11.4.0
+[0.446s] -- The CXX compiler identification is GNU 11.4.0
+[0.451s] -- Detecting C compiler ABI info
+[0.495s] -- Detecting C compiler ABI info - done
+[0.505s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.505s] -- Detecting C compile features
+[0.506s] -- Detecting C compile features - done
+[0.509s] -- Detecting CXX compiler ABI info
+[0.560s] -- Detecting CXX compiler ABI info - done
+[0.566s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.566s] -- Detecting CXX compile features
+[0.567s] -- Detecting CXX compile features - done
+[0.569s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.675s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.721s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.752s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.791s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.797s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.805s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.818s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.836s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.943s] -- Found nav_msgs: 4.2.3 (/opt/ros/humble/share/nav_msgs/cmake)
+[1.017s] -- Found rclcpp: 16.0.6 (/opt/ros/humble/share/rclcpp/cmake)
+[1.075s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.078s] -- Found rmw_fastrtps_cpp: 6.2.4 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.152s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.176s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.216s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.226s] -- Looking for pthread.h
+[1.271s] -- Looking for pthread.h - found
+[1.272s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.318s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.319s] -- Found Threads: TRUE  
+[1.434s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.507s] -- Found tf2: 0.25.4 (/opt/ros/humble/share/tf2/cmake)
+[1.521s] -- Found tf2_msgs: 0.25.4 (/opt/ros/humble/share/tf2_msgs/cmake)
+[1.656s] -- Found turtlebot3_msgs: 2.2.3 (/home/ye24/turtlebot3_ws/install/turtlebot3_msgs/share/turtlebot3_msgs/cmake)
+[1.801s] -- Configuring done
+[1.810s] -- Generating done
+[1.812s] -- Build files have been written to: /home/ye24/turtlebot3_ws/build/turtlebot3_fake_node
+[1.818s] Invoked command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake /home/ye24/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ye24/turtlebot3_ws/install/turtlebot3_fake_node
+[1.819s] Invoking command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --build /home/ye24/turtlebot3_ws/build/turtlebot3_fake_node -- -j12 -l12
+[1.852s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[8.457s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[8.805s] [100%] Built target turtlebot3_fake_node
+[8.812s] Invoked command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --build /home/ye24/turtlebot3_ws/build/turtlebot3_fake_node -- -j12 -l12
+[8.827s] Invoking command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --install /home/ye24/turtlebot3_ws/build/turtlebot3_fake_node
+[8.832s] -- Install configuration: ""
+[8.832s] -- Execute custom install script
+[8.832s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[8.838s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[8.844s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[8.850s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[8.856s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[8.862s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[8.868s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[8.875s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[8.881s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[8.887s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[8.894s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[8.900s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[8.906s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[8.911s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[8.917s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[8.922s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[8.927s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[8.933s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[8.939s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[8.944s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.950s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.954s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[8.959s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[8.964s] -- Symlinking: /home/ye24/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[8.972s] Invoked command in '/home/ye24/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/py_pubsub:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --install /home/ye24/turtlebot3_ws/build/turtlebot3_fake_node

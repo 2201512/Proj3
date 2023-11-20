@@ -1,0 +1,53 @@
+[0.353s] Invoking command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake /home/ye24/turtlebot3_ws/src/my_turtlebot3_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ye24/turtlebot3_ws/install/my_turtlebot3_control
+[0.395s] -- The C compiler identification is GNU 11.4.0
+[0.433s] -- The CXX compiler identification is GNU 11.4.0
+[0.439s] -- Detecting C compiler ABI info
+[0.481s] -- Detecting C compiler ABI info - done
+[0.487s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.487s] -- Detecting C compile features
+[0.488s] -- Detecting C compile features - done
+[0.490s] -- Detecting CXX compiler ABI info
+[0.541s] -- Detecting CXX compiler ABI info - done
+[0.547s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.548s] -- Detecting CXX compile features
+[0.548s] -- Detecting CXX compile features - done
+[0.550s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.660s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.704s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.731s] -- Found rclpy: 3.3.10 (/opt/ros/humble/share/rclpy/cmake)
+[0.732s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.767s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.772s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.780s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.794s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.812s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.926s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.992s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.992s] -- Added test 'lint_cmake' to check CMake code style
+[0.993s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.994s] -- Added test 'xmllint' to check XML markup files
+[0.995s] -- Configuring done
+[0.997s] -- Generating done
+[0.998s] -- Build files have been written to: /home/ye24/turtlebot3_ws/build/my_turtlebot3_control
+[1.165s] Invoked command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control' returned '0': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake /home/ye24/turtlebot3_ws/src/my_turtlebot3_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ye24/turtlebot3_ws/install/my_turtlebot3_control
+[1.166s] Invoking command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --build /home/ye24/turtlebot3_ws/build/my_turtlebot3_control -- -j12 -l12
+[1.448s] Invoked command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control' returned '0': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --build /home/ye24/turtlebot3_ws/build/my_turtlebot3_control -- -j12 -l12
+[1.464s] Invoking command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --install /home/ye24/turtlebot3_ws/build/my_turtlebot3_control
+[1.468s] -- Install configuration: ""
+[1.469s] -- Execute custom install script
+[1.469s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/package_run_dependencies/my_turtlebot3_control
+[1.474s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/parent_prefix_path/my_turtlebot3_control
+[1.480s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/ament_prefix_path.sh
+[1.485s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/ament_prefix_path.dsv
+[1.490s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/path.sh
+[1.495s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/path.dsv
+[1.500s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.bash
+[1.506s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.sh
+[1.510s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.zsh
+[1.517s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.dsv
+[1.524s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/package.dsv
+[1.530s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/packages/my_turtlebot3_control
+[1.536s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/cmake/my_turtlebot3_controlConfig.cmake
+[1.541s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/cmake/my_turtlebot3_controlConfig-version.cmake
+[1.546s] -- Symlinking: /home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/package.xml
+[1.611s] Invoked command in '/home/ye24/turtlebot3_ws/build/my_turtlebot3_control' returned '0': CMAKE_PREFIX_PATH=/home/ye24/my_turtlebot3_control/install/my_turtlebot3_control:/home/ye24/turtlebot3_ws/install/turtlebot3:/home/ye24/turtlebot3_ws/install/turtlebot3_bringup:/home/ye24/turtlebot3_ws/install/turtlebot3_node:/home/ye24/turtlebot3_ws/install/turtlebot3_navigation2:/home/ye24/turtlebot3_ws/install/turtlebot3_msgs:/home/ye24/turtlebot3_ws/install/turtlebot3_description:/home/ye24/turtlebot3_ws/install/turtlebot3_cartographer:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_examples:/home/ye24/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/ye24/turtlebot3_ws/install/dynamixel_sdk:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop:/home/ye24/turtlebot3_ws/install/turtlebot3_example:/opt/ros/humble:/home/ye24/catkin_ws/src/turtlebot3/testautomation/devel:/home/ye24/catkin_ws/devel /usr/bin/cmake --install /home/ye24/turtlebot3_ws/build/my_turtlebot3_control

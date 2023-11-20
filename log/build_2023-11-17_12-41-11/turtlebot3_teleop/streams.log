@@ -1,0 +1,28 @@
+[0.755s] Invoking command in '/home/ye24/turtlebot3_ws/build/turtlebot3_teleop': PYTHONPATH=/home/ye24/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data
+[1.049s] running develop
+[1.049s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.049s]   warnings.warn(
+[1.050s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.050s]   warnings.warn(
+[1.175s] running egg_info
+[1.175s] creating turtlebot3_teleop.egg-info
+[1.176s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[1.176s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[1.176s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[1.176s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[1.176s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[1.177s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.177s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.177s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.178s] running build_ext
+[1.178s] Creating /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[1.179s] Installing teleop_keyboard script to /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[1.179s] 
+[1.179s] Installed /home/ye24/turtlebot3_ws/build/turtlebot3_teleop
+[1.180s] running install_data
+[1.180s] creating /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index
+[1.180s] creating /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index
+[1.180s] creating /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[1.180s] copying resource/turtlebot3_teleop -> /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[1.180s] copying package.xml -> /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/share/turtlebot3_teleop
+[1.234s] Invoked command in '/home/ye24/turtlebot3_ws/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data

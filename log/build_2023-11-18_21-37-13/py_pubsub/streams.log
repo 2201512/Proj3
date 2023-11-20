@@ -1,0 +1,22 @@
+[0.959s] Invoking command in '/home/ye24/turtlebot3_ws/build/py_pubsub': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build --no-deps install_data
+[1.131s] running develop
+[1.131s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.131s]   warnings.warn(
+[1.133s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.133s]   warnings.warn(
+[1.233s] running egg_info
+[1.233s] writing py_pubsub.egg-info/PKG-INFO
+[1.234s] writing dependency_links to py_pubsub.egg-info/dependency_links.txt
+[1.234s] writing entry points to py_pubsub.egg-info/entry_points.txt
+[1.234s] writing requirements to py_pubsub.egg-info/requires.txt
+[1.234s] writing top-level names to py_pubsub.egg-info/top_level.txt
+[1.235s] reading manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.235s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.237s] running build_ext
+[1.237s] Creating /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py-pubsub.egg-link (link to .)
+[1.238s] Installing maze script to /home/ye24/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[1.239s] Installing talker script to /home/ye24/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[1.239s] 
+[1.239s] Installed /home/ye24/turtlebot3_ws/build/py_pubsub
+[1.239s] running install_data
+[1.317s] Invoked command in '/home/ye24/turtlebot3_ws/build/py_pubsub' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build --no-deps install_data

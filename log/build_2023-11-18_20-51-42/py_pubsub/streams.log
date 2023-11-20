@@ -1,0 +1,40 @@
+[0.623s] Invoking command in '/home/ye24/turtlebot3_ws/build/py_pubsub': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build
+[0.839s] running develop
+[0.839s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.839s]   warnings.warn(
+[0.840s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.840s]   warnings.warn(
+[0.955s] Removing /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py-pubsub.egg-link (link to .)
+[0.975s] Invoked command in '/home/ye24/turtlebot3_ws/build/py_pubsub' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build
+[0.977s] Invoking command in '/home/ye24/turtlebot3_ws/src/py_pubsub': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ye24/turtlebot3_ws/build/py_pubsub/build install --record /home/ye24/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed
+[1.179s] running egg_info
+[1.179s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.179s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.180s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.180s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.180s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.181s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.181s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.182s] running build
+[1.182s] running build_py
+[1.182s] creating /home/ye24/turtlebot3_ws/build/py_pubsub/build
+[1.182s] creating /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib
+[1.182s] creating /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub
+[1.182s] copying py_pubsub/move_straight.py -> /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub
+[1.182s] copying py_pubsub/__init__.py -> /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub
+[1.182s] running install
+[1.182s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.183s]   warnings.warn(
+[1.183s] running install_lib
+[1.183s] creating /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.183s] copying /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/move_straight.py -> /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.183s] copying /home/ye24/turtlebot3_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[1.183s] byte-compiling /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/move_straight.py to move_straight.cpython-310.pyc
+[1.184s] byte-compiling /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[1.184s] running install_data
+[1.184s] running install_egg_info
+[1.185s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[1.186s] running install_scripts
+[1.202s] Installing talker script to /home/ye24/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[1.202s] writing list of installed files to '/home/ye24/turtlebot3_ws/build/py_pubsub/install.log'
+[1.217s] Invoked command in '/home/ye24/turtlebot3_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/ye24/turtlebot3_ws/build/py_pubsub/build install --record /home/ye24/turtlebot3_ws/build/py_pubsub/install.log --single-version-externally-managed

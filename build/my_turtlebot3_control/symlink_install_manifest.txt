@@ -1,0 +1,15 @@
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/package_run_dependencies/my_turtlebot3_control
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/parent_prefix_path/my_turtlebot3_control
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/ament_prefix_path.sh
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/ament_prefix_path.dsv
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/path.sh
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/environment/path.dsv
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.bash
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.sh
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.zsh
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/local_setup.dsv
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/package.dsv
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/packages/my_turtlebot3_control
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/cmake/my_turtlebot3_controlConfig.cmake
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/cmake/my_turtlebot3_controlConfig-version.cmake
+/home/ye24/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control/package.xml

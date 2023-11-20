@@ -1,0 +1,28 @@
+[1.066s] Invoking command in '/home/ye24/turtlebot3_ws/build/py_pubsub': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build --no-deps install_data
+[1.245s] running develop
+[1.245s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.245s]   warnings.warn(
+[1.246s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.246s]   warnings.warn(
+[1.361s] running egg_info
+[1.362s] creating py_pubsub.egg-info
+[1.362s] writing py_pubsub.egg-info/PKG-INFO
+[1.362s] writing dependency_links to py_pubsub.egg-info/dependency_links.txt
+[1.362s] writing entry points to py_pubsub.egg-info/entry_points.txt
+[1.362s] writing requirements to py_pubsub.egg-info/requires.txt
+[1.362s] writing top-level names to py_pubsub.egg-info/top_level.txt
+[1.362s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.364s] reading manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.364s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.365s] running build_ext
+[1.365s] Creating /home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages/py-pubsub.egg-link (link to .)
+[1.366s] Installing talker script to /home/ye24/turtlebot3_ws/install/py_pubsub/lib/py_pubsub
+[1.366s] 
+[1.366s] Installed /home/ye24/turtlebot3_ws/build/py_pubsub
+[1.366s] running install_data
+[1.366s] creating /home/ye24/turtlebot3_ws/install/py_pubsub/share/ament_index
+[1.366s] creating /home/ye24/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index
+[1.366s] creating /home/ye24/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.366s] copying resource/py_pubsub -> /home/ye24/turtlebot3_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[1.366s] copying package.xml -> /home/ye24/turtlebot3_ws/install/py_pubsub/share/py_pubsub
+[1.619s] Invoked command in '/home/ye24/turtlebot3_ws/build/py_pubsub' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/py_pubsub/prefix_override:/home/ye24/turtlebot3_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/py_pubsub/build --no-deps install_data

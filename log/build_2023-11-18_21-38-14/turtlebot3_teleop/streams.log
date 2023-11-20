@@ -1,0 +1,21 @@
+[1.187s] Invoking command in '/home/ye24/turtlebot3_ws/build/turtlebot3_teleop': PYTHONPATH=/home/ye24/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data
+[1.362s] running develop
+[1.363s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.363s]   warnings.warn(
+[1.363s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.364s]   warnings.warn(
+[1.466s] running egg_info
+[1.466s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[1.466s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[1.466s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[1.466s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[1.466s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[1.467s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.468s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[1.469s] running build_ext
+[1.469s] Creating /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[1.469s] Installing teleop_keyboard script to /home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[1.470s] 
+[1.470s] Installed /home/ye24/turtlebot3_ws/build/turtlebot3_teleop
+[1.470s] running install_data
+[1.774s] Invoked command in '/home/ye24/turtlebot3_ws/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/ye24/turtlebot3_ws/build/turtlebot3_teleop/prefix_override:/home/ye24/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ye24/turtlebot3_ws/build/turtlebot3_teleop/build --no-deps install_data

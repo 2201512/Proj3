@@ -1,0 +1,4 @@
+[console_scripts]
+maze = py_pubsub.generate_maze:main
+talker = py_pubsub.move_straight:main
+
